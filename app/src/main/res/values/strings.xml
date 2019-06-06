@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">RecyclerView Test</string>
+    <string name="responseJson">[{
+        "score": null,
+        "product": {
+        "product_id": 644,
+        "category_id": 13,
+        "product_name": "Higashimaru Usukuchi Soy",
+        "pdt_mrp": "159.00",
+        "status": "Active",
+        "created_on": null,
+        "popular": null,
+        "featured": null,
+        "brand_name": "Cello",
+        "brand_id": 413,
+        "product_variant_name": null,
+        "product_image_url": "https://loremflickr.com/320/240/fruits?id=644",
+        "category_name": "Fresh Fruits"
+        }
+        },
+        {
+        "score": null,
+        "product": {
+        "product_id": 117,
+        "category_id": 13,
+        "product_name": "Cheese - Mozzarella",
+        "pdt_mrp": "183.00",
+        "status": "Active",
+        "created_on": null,
+        "popular": null,
+        "featured": null,
+        "brand_name": "whisper",
+        "brand_id": 316,
+        "product_variant_name": null,
+        "product_image_url": "https://loremflickr.com/320/240/fruits?id=117",
+        "category_name": "Fresh Fruits"
+        }
+        }
+        ]
+    </string>
+</resources>
